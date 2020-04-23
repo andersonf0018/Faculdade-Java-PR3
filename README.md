@@ -8,7 +8,7 @@ Código referente ao meu projeto da cadeira de **Programação Avançada - 3° P
 **Data:** 23/04/2020
 
 ## Como utilizar?
-Faça download da pasta "Executável" no próprio repositório, extraia, adicione o ITextPDF e o Barcode4j na pasta que foi criada e execute o arquivo **INICIAR.bat**<br>
+Faça download da pasta "Executável" no próprio repositório, extraia, adicione o **ITextPDF e o Barcode4j** na pasta que foi criada e execute o arquivo **INICIAR.bat**<br>
 **IMPORTANTE: O programa foi codificado na JavaSE-1.8**<br>
 
 Para o funcionamente completo, o código utiliza das APIs **ITextPDF-5.1.0** e **Barcode4j**<br><br>
