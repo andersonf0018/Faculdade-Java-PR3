@@ -2,10 +2,10 @@
 Código referente ao meu projeto da cadeira de **Programação Avançada - 3° Período - UniNabuco Recife-PE**
 
 ## Especificações
-**Tema: Loja de jogos**<br>
-**Versão: 1.0**<br>
-**Nota: 10.0** *(Referente aos critérios avaliativos de uma atividade de 3° período)*<br>
-**Data: 23/04/2020**
+**Tema:** Loja de jogos<br>
+**Versão:** 1.0<br>
+**Nota:** 10.0 *(Referente aos critérios avaliativos de uma atividade de 3° período)*<br>
+**Data:** 23/04/2020
 
 ## Como utilizar?
 Faça download da pasta "Executável" no próprio repositório, extraia e execute o arquivo **INICIAR.bat**<br>
