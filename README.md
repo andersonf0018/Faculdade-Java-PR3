@@ -4,7 +4,7 @@ Código referente ao meu projeto da cadeira de **Programação Avançada - 3° P
 ## Especificações
 **Tema:** Loja de jogos<br>
 **Versão:** 1.0<br>
-**Nota:** 10.0 *(Referente aos critérios avaliativos de uma atividade de 3° período)*<br>
+**Nota:** 10.0 *(Referente aos critérios de avaliação de uma atividade de 3° período)*<br>
 **Data:** 23/04/2020
 
 ## Como utilizar?
